@@ -8,7 +8,6 @@ AI Assistant Widget adalah ekstensi Chrome/Edge berbasis **Manifest V3** dengan 
 
 ## Preview
 
-Kamu bisa taruh screenshot sendiri di folder `docs/screenshots/`, atau ganti link image dengan URL hosting kamu.
 
 | Widget Chat | Minimize Mode | Model Picker |
 |---|---|---|
