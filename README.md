@@ -14,12 +14,6 @@ Kamu bisa taruh screenshot sendiri di folder `docs/screenshots/`, atau ganti lin
 |---|---|---|
 | ![Widget Chat](docs/screenshots/widget.png) | ![Minimize Mode](docs/screenshots/minimize.png) | ![Model Picker](docs/screenshots/models.png) |
 
-Contoh kalau pakai hosting gambar:
-
-```md
-![Widget Chat](https://link-gambar-kamu.com/widget.png)
-```
-
 ---
 
 ## Fitur
