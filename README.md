@@ -183,19 +183,6 @@ Jika menambah file baru seperti `background.js`, lebih aman:
 2. Load unpacked ulang.
 
 ---
-
-## Screenshot
-
-Kamu bisa isi file screenshot berikut sendiri:
-
-```txt
-docs/screenshots/widget.png
-docs/screenshots/minimize.png
-docs/screenshots/models.png
-```
-
-Atau upload gambar ke hosting dan ganti link image di bagian Preview.
-
 ---
 
 ## Credit
